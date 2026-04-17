@@ -1,0 +1,2 @@
+# numerai
+numerai projects
